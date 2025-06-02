@@ -22,7 +22,7 @@ export function LandingHeadder() {
                     Contact
                 </Link>
                 <div className="hidden md:flex items-center gap-2">
-                    <Button>Log In</Button>
+                    <Button variant="blue">Log In</Button>
                     <Button variant={"outline"}>Sign Up</Button>
                     
                 </div>

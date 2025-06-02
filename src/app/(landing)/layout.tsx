@@ -15,7 +15,7 @@ export default function LandingLayout({
         </div>
 
         {/* Main Content */}
-        <main className="w-full h-full min-h-screen mt-16">
+        <main className="w-full h-full min-h-screen mt-8 md:mt-16 lg:mt-24 xl:mt-32">
                 {children}   
         </main>
 
